@@ -32,4 +32,4 @@ Feel free to contribute to this project.
 
 ---
 
-This preset is based on [angelobdev](https://github.com/angelobdev)'s (EasyEffects preset)[https://github.com/angelobdev/t2-easyeffects-preset/blob/main].
+This preset is based on [angelobdev](https://github.com/angelobdev)'s [EasyEffects preset](https://github.com/angelobdev/t2-easyeffects-preset/blob/main).
