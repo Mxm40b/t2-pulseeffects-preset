@@ -30,4 +30,6 @@ This project is under the GPL3 license. Read the [LICENSE](LICENSE.md) for more.
 
 Feel free to contribute to this project.
 
+---
+
 This preset is based on [angelobdev](https://github.com/angelobdev)'s (EasyEffects preset)[https://github.com/angelobdev/t2-easyeffects-preset/blob/main].
