@@ -8,7 +8,7 @@ It has been tested on a MacBook Pro 16 inch 2019 running NixOS, but it should be
 
 1. Install [PulseEffects](https://github.com/mikhailnov/pulseeffects)
 
-2. Download the [mbp-pulseeffects.json](mbp-pulseeffects.json] file.
+2. Download the [mbp-pulseeffects.json](mbp-pulseeffects.json) file.
 
 3. Open PulseEffects. Click on the left-most button in the top-right corner, then on `Import Presets` (file icon), and navigate to the downloaded `mbp-pulseeffects.json` file.
 
