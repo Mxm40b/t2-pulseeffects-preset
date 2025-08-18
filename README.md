@@ -22,6 +22,8 @@ Optionally, you can enable PulseEffects on startup:
 
 7. Enjoy!
 
+Note: if you want more accurate, stereo sound from the speakers, disable the Stereo Tools effect.
+
 ## Licence
 
 This project is under the GPL3 license. Read the [LICENSE](LICENSE.md) for more.
