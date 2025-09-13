@@ -20,11 +20,11 @@
                     "width": 4.0
                 },
                 "band1": {
-                    "frequency": 380.0,
-                    "gain": 10.61,
+                    "frequency": 300.0,
+                    "gain": 20.0,
                     "mode": "RLC (BT)",
                     "mute": false,
-                    "q": 1.78,
+                    "q": 0.4,
                     "slope": "x1",
                     "solo": false,
                     "type": "Lo-shelf",
@@ -43,7 +43,7 @@
                 },
                 "band3": {
                     "frequency": 2500.0,
-                    "gain": 4.5,
+                    "gain": 4.0,
                     "mode": "RLC (BT)",
                     "mute": false,
                     "q": 1.78,
@@ -137,11 +137,11 @@
                     "width": 4.0
                 },
                 "band1": {
-                    "frequency": 380.0,
-                    "gain": 10.61,
+                    "frequency": 300.0,
+                    "gain": 20.0,
                     "mode": "RLC (BT)",
                     "mute": false,
-                    "q": 1.78,
+                    "q": 0.4,
                     "slope": "x1",
                     "solo": false,
                     "type": "Lo-shelf",
@@ -160,7 +160,7 @@
                 },
                 "band3": {
                     "frequency": 2500.0,
-                    "gain": 4.5,
+                    "gain": 4.0,
                     "mode": "RLC (BT)",
                     "mute": false,
                     "q": 1.78,
